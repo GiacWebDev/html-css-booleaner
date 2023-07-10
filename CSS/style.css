@@ -12,13 +12,13 @@ header, main, footer{
 
 header{
   background-color: #4EA0FF;
-  height: 150px;
   background-image: url(../img/pattern.png);
   background-size: 40%;
+  padding-top: 50px;
 }
 
 header img{
-  width: 250px;
+  width: 210px;
 }
 
 /* MAIN */
@@ -45,6 +45,10 @@ mark{
 
 .center-text, ul{
   padding-top: 20px;
+}
+
+ul{
+  margin-left: 15px;
 }
 
 /* tabella */
@@ -101,4 +105,9 @@ footer{
   color: white;
   font-weight: 800;
   font-size: 20px;
+}
+
+footer p{
+  color: gray;
+  font-weight: 700;
 }
