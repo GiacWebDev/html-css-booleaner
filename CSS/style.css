@@ -48,3 +48,15 @@ mark{
 }
 
 /* tabella */
+
+table{
+  width: 100%;
+  text-align: left;
+  margin-top: 20px;
+  table-layout: auto;
+}
+
+th{
+  background-color: #24A9E6;
+  color: white;
+}
