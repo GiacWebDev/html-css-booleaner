@@ -6,19 +6,41 @@
 
 /* header */
 
-.background-header{
+header{
   background-color: #4EA0FF;
   height: 150px;
   background-image: url(../img/pattern.png);
-  background-size: 30%;
+  background-size: 40%;
+  padding-left: 30px;
 }
 
 header img{
-  width: 200px;
+  width: 250px;
 }
 
+/* MAIN */
 /* First Block = Text + Img */
+
+main{
+  padding-left: 30px;
+}
 
 h1{
   font-size: 40px;
+  padding-top: 20px;
+  padding-bottom: 5px;
 }
+
+.images{
+  padding-top: 20px;
+}
+
+mark{
+  background-color: #8FFFFF;
+}
+
+.center-text, ul{
+  padding-top: 20px;
+}
+
+/* tabella */
