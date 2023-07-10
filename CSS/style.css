@@ -35,6 +35,10 @@ h1{
   padding-top: 20px;
 }
 
+.images p{
+  font-size: 13px;
+}
+
 mark{
   background-color: #8FFFFF;
 }
