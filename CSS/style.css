@@ -53,10 +53,18 @@ table{
   width: 100%;
   text-align: left;
   margin-top: 20px;
-  table-layout: auto;
 }
 
 th{
   background-color: #24A9E6;
   color: white;
 }
+
+.tab{
+  width: 33%;
+}
+
+.tab-color{
+  background-color: #B1E5F2;
+}
+
