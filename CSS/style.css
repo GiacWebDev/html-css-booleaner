@@ -3,26 +3,22 @@
   margin: 0;
 }
 
+
+/* header */
+
 .background-header{
   background-color: #4EA0FF;
-  height: 80px;
+  height: 150px;
   background-image: url(../img/pattern.png);
   background-size: 30%;
 }
 
-#header-text{
-  color: #FFFFFF;
-  font-family: 'Playfair Display', serif;
-  padding-left: 20px;
-  text-shadow: 1px 1px 1px #000000;
+header img{
+  width: 200px;
 }
 
-div span{
-  font-size: 14px;
-  padding-left: 20px;
-  margin: 0;
-}
+/* First Block = Text + Img */
 
-div p{
-  font-size: 30px;
+h1{
+  font-size: 40px;
 }
